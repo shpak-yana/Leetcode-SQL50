@@ -12,40 +12,18 @@
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
 | Replace Employee ID With The Unique Identifier  | Solution | Easy  |
+| Product Sales Analysis I  | |Solution | Easy  |
+| Customer Who Visited but Did Not Make Any Transactions  | Solution  | Easy  |
+| Rising Temperature   | Solution  | Easy  |
+| Average Time of Process per Machine  | Solution  | Easy  |
+| Employee Bonus  | Solution  | Easy  |
+| Students and Examinations  | Solution  |Easy  |
+| Managers with at Least 5 Direct Reports  | Solution  | Medium  |
+| Confirmation Rate  | Solution  | Medium  |
 
-
-Product Sales Analysis I
-Solution
-Easy
-
-Customer Who Visited but Did Not Make Any Transactions
-Solution
-Easy
-
-Rising Temperature
-Solution
-Easy
-
-Average Time of Process per Machine
-Solution
-Easy
-
-Employee Bonus
-Solution
-Easy
-
-Students and Examinations
-Solution
-Easy
-
-Managers with at Least 5 Direct Reports
-Solution
-Medium
-
-Confirmation Rate
-Medium
-
-Basic Aggregate Functions
+### Basic Aggregate Functions
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
 Not Boring Movies
 Solution
 Easy
@@ -103,7 +81,9 @@ Customers Who Bought All Products
 Solution
 Medium
 
-Advanced Select and Joins
+### Advanced Select and Joins
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
 The Number of Employees Which Report to Each Employee
 Solution
 Easy
@@ -157,7 +137,9 @@ Department Top Three Salaries
 Solution
 Hard
 
-Advanced String Functions / Regex / Clause
+### Advanced String Functions / Regex / Clause
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
 Fix Names in a Table
 Solution
 Easy
