@@ -3,27 +3,16 @@
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
 | Recyclable and Low Fat Products  | [Solution](1757. Recyclable and Low Fat Products.md) | Easy |
+| Find Customer Referee            | Solution | Easy  |
+| Big Countries                    | Solution | Easy  |
+| Article Views I                  | Solution | Easy  |
+| Invalid Tweets                   | Solution | Easy  |
 
-Find Customer Referee
-Solution
-Easy
+### Basic Joins
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
+| Replace Employee ID With The Unique Identifier  | Solution | Easy  |
 
-Big Countries
-Solution
-Easy
-
-Article Views I
-Solution
-Easy
-
-Invalid Tweets
-Solution
-Easy
-
-Basic Joins
-Replace Employee ID With The Unique Identifier
-Solution
-Easy
 
 Product Sales Analysis I
 Solution
