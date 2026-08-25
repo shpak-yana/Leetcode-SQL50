@@ -2,10 +2,10 @@
 
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-| Recyclable and Low Fat Products  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | Easy |
-| Find Customer Referee            | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/584.%20Find%20Customer%20Referee.md) | Easy  |
-| Big Countries                    | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/595.%20Big%20Countries.md) | Easy  |
-| Article Views I                  | [Solution](tasks/1148. Article Views.md) | Easy  |
+| Recyclable and Low Fat Products  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | Easy |
+| Find Customer Referee            | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/584.%20Find%20Customer%20Referee.md) | Easy  |
+| Big Countries                    | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/595.%20Big%20Countries.md) | Easy  |
+| Article Views I                  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1148.%20Article%20Views.md) | Easy  |
 | Invalid Tweets                   | Solution | Easy  |
 
 ### Basic Joins
