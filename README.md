@@ -6,7 +6,7 @@
 | Find Customer Referee            | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/584.%20Find%20Customer%20Referee.md) | Easy  |
 | Big Countries                    | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/595.%20Big%20Countries.md) | Easy  |
 | Article Views I                  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1148.%20Article%20Views.md) | Easy  |
-| Invalid Tweets                   | Solution | Easy  |
+| Invalid Tweets                   | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1683.%20Invalid%20Tweets.md) | Easy  |
 
 ### Basic Joins
 | Task Name                        | Solution  | Rank |
