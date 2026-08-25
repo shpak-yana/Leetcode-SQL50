@@ -2,7 +2,7 @@
 
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-| Recyclable and Low Fat Products  | Solution (/1757.Recyclable and Low Fat Products.md) | Easy |
+| Recyclable and Low Fat Products  | [Solution](1757.Recyclable and Low Fat Products.md) | Easy |
 
 Find Customer Referee
 Solution
