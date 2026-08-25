@@ -4,7 +4,7 @@
 |----------------------------------|-----------|------|
 | Recyclable and Low Fat Products  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | Easy |
 | Find Customer Referee            | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/584.%20Find%20Customer%20Referee.md) | Easy  |
-| Big Countries                    | Solution | Easy  |
+| Big Countries                    | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/595.%20Big%20Countries.md) | Easy  |
 | Article Views I                  | Solution | Easy  |
 | Invalid Tweets                   | Solution | Easy  |
 
