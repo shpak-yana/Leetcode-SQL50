@@ -11,7 +11,7 @@
 ### Basic Joins
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-| Replace Employee ID With The Unique Identifier  | Solution | Easy  |
+| Replace Employee ID With The Unique Identifier  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | Easy  |
 | Product Sales Analysis I  | Solution | Easy  |
 | Customer Who Visited but Did Not Make Any Transactions  | Solution  | Easy  |
 | Rising Temperature   | Solution  | Easy  |
