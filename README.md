@@ -12,7 +12,7 @@
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
 | Replace Employee ID With The Unique Identifier  | Solution | Easy  |
-| Product Sales Analysis I  | |Solution | Easy  |
+| Product Sales Analysis I  | Solution | Easy  |
 | Customer Who Visited but Did Not Make Any Transactions  | Solution  | Easy  |
 | Rising Temperature   | Solution  | Easy  |
 | Average Time of Process per Machine  | Solution  | Easy  |
