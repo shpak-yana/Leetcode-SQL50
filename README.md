@@ -2,7 +2,7 @@
 
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-| Recyclable and Low Fat Products  | ([Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products.md)) | Easy |
+| Recyclable and Low Fat Products  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | Easy |
 | Find Customer Referee            | Solution | Easy  |
 | Big Countries                    | Solution | Easy  |
 | Article Views I                  | Solution | Easy  |
