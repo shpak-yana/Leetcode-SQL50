@@ -38,82 +38,33 @@
 |----------------------------------|-----------|------|
 | Number of Unique Subjects Taught by Each Teacher   | Solution | Easy |
 | User Activity for the Past 30 Days I   | Solution | Easy |
-
-Product Sales Analysis III
-Solution
-Medium
-
-Classes With at Least 5 Students
-Solution
-Easy
-
-Find Followers Count
-Solution
-Easy
-
-Biggest Single Number
-Solution
-Easy
-
-Customers Who Bought All Products
-Solution
-Medium
+| Product Sales Analysis III   | Solution  | Medium |
+| Classes With at Least 5 Students   | Solution  | Easy |
+| Find Followers Count   | Solution  | Easy |
+| Biggest Single Number   | Solution  | Easy |
+| Customers Who Bought All Products   | Solution  | Medium |
 
 ### Advanced Select and Joins
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-The Number of Employees Which Report to Each Employee
-Solution
-Easy
+| The Number of Employees Which Report to Each Employee   | Solution  | Easy |
+| Primary Department for Each Employee   | Solution  | Easy |
+| Triangle Judgement   | Solution  | Easy |
+| Consecutive Numbers   | Solution  | Medium |
+| Product Price at a Given Date   | Solution  | Medium |
+| Last Person to Fit in the Bus   | Solution  | Medium |
+| Count Salary Categories   | Solution  | Medium |
 
-Primary Department for Each Employee
-Solution
-Easy
-
-Triangle Judgement
-Solution
-Easy
-
-Consecutive Numbers
-Solution
-Medium
-
-Product Price at a Given Date
-Solution
-Medium
-
-Last Person to Fit in the Bus
-Medium
-
-Count Salary Categories
-Solution
-Medium
-
-Subqueries
-Employees Whose Manager Left the Company
-Easy
-
-Exchange Seats
-Solution
-Medium
-
-Movie Rating
-Medium
-
-Restaurant Growth
-Medium
-
-Friend Requests II: Who Has the Most Friends
-Solution
-Medium
-
-Investments in 2016
-Solution
-Medium
-
-Department Top Three Salaries
-Solution
-Hard
+### Subqueries
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
+| Employees Whose Manager Left the Company   | Solution  | Easy |
+| Exchange Seats   | Solution  | Medium |
+| Movie Rating  | Solution  | Medium |
+| Restaurant Growth  | Solution  | Medium |
+| Friend Requests II: Who Has the Most Friends   | Solution  | Medium |
+| Investments in 2016   | Solution  | Medium |
+| Department Top Three Salaries  | Solution  | Hard |
 
 ### Advanced String Functions / Regex / Clause
 | Task Name                        | Solution  | Rank |
