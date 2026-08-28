@@ -12,7 +12,7 @@
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
 | Replace Employee ID With The Unique Identifier  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | Easy  |
-| Product Sales Analysis I  | Solution | Easy  |
+| Product Sales Analysis I  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1068.%20Product%20Sales%20Analysis%20I.md) | Easy  |
 | Customer Who Visited but Did Not Make Any Transactions  | Solution  | Easy  |
 | Rising Temperature   | Solution  | Easy  |
 | Average Time of Process per Machine  | Solution  | Easy  |
