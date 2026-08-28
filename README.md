@@ -24,42 +24,20 @@
 ### Basic Aggregate Functions
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-Not Boring Movies
-Solution
-Easy
+| Not Boring Movies   | Solution  | Easy  |
+| Average Selling Price   | Solution  | Easy  |
+| Project Employees I   | Solution  | Easy |
+| Percentage of Users Attended a Contest   | Solution  | Easy  |
+| Queries Quality and Percentage   | Solution  | Easy  |
+| Monthly Transactions I   | Solution  | Medium |
+| Immediate Food Delivery II   | Solution  | Medium |
+| Game Play Analysis IV   | Solution  | Medium |
 
-Average Selling Price
-Easy
-
-Project Employees I
-Solution
-Easy
-
-Percentage of Users Attended a Contest
-Solution
-Easy
-
-Queries Quality and Percentage
-Easy
-
-Monthly Transactions I
-Medium
-
-Immediate Food Delivery II
-Medium
-
-Game Play Analysis IV
-Solution
-Medium
-
-Sorting and Grouping
-Number of Unique Subjects Taught by Each Teacher
-Solution
-Easy
-
-User Activity for the Past 30 Days I
-Solution
-Easy
+### Sorting and Grouping
+| Task Name                        | Solution  | Rank |
+|----------------------------------|-----------|------|
+| Number of Unique Subjects Taught by Each Teacher   | Solution | Easy |
+| User Activity for the Past 30 Days I   | Solution | Easy |
 
 Product Sales Analysis III
 Solution
@@ -140,30 +118,11 @@ Hard
 ### Advanced String Functions / Regex / Clause
 | Task Name                        | Solution  | Rank |
 |----------------------------------|-----------|------|
-Fix Names in a Table
-Solution
-Easy
-
-Patients With a Condition
-Solution
-Easy
-
-Delete Duplicate Emails
-Solution
-Easy
-
-Second Highest Salary
-Solution
-Medium
-
-Group Sold Products By The Date
-Solution
-Easy
-
-List the Products Ordered in a Period
-Easy
-
-Find Users With Valid E-Mails
-Solution
-Easy
+| Fix Names in a Table   | Solution   | Easy |
+| Patients With a Condition   | Solution  | Easy |
+| Delete Duplicate Emails   | Solution  | Easy |
+| Second Highest Salary   | Solution  | Medium |
+| Group Sold Products By The Date   | Solution  | Easy |
+| List the Products Ordered in a Period   | Solution  | Easy |
+| Find Users With Valid E-Mails   | Solution  | Easy |
 
