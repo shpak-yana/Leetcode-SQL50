@@ -16,7 +16,7 @@
 | Customer Who Visited but Did Not Make Any Transactions  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md)  | Easy  |
 | Rising Temperature   | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/197.%20Rising%20Temperature.md)  | Easy  |
 | Average Time of Process per Machine  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1661.Average%20Time%20of%20Process%20per%20Machine.md)  | Easy  |
-| Employee Bonus  | Solution  | Easy  |
+| Employee Bonus  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/577.Employee%20Bonus.md)  | Easy  |
 | Students and Examinations  | Solution  |Easy  |
 | Managers with at Least 5 Direct Reports  | Solution  | Medium  |
 | Confirmation Rate  | Solution  | Medium  |
