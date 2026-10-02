@@ -15,7 +15,7 @@
 | Product Sales Analysis I  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1068.%20Product%20Sales%20Analysis%20I.md) | Easy  |
 | Customer Who Visited but Did Not Make Any Transactions  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md)  | Easy  |
 | Rising Temperature   | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/197.%20Rising%20Temperature.md)  | Easy  |
-| Average Time of Process per Machine  | Solution  | Easy  |
+| Average Time of Process per Machine  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1661.Average%20Time%20of%20Process%20per%20Machine.md)  | Easy  |
 | Employee Bonus  | Solution  | Easy  |
 | Students and Examinations  | Solution  |Easy  |
 | Managers with at Least 5 Direct Reports  | Solution  | Medium  |
