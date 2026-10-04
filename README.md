@@ -18,7 +18,7 @@
 | Average Time of Process per Machine  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1661.Average%20Time%20of%20Process%20per%20Machine.md)  | Easy  |
 | Employee Bonus  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/577.Employee%20Bonus.md)  | Easy  |
 | Students and Examinations  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1280.Students%20and%20Examinations.md)  |Easy  |
-| Managers with at Least 5 Direct Reports  | Solution  | Medium  |
+| Managers with at Least 5 Direct Reports  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/570.Managers%20with%20at%20Least%205%20Direct%20Reports.md)  | Medium  |
 | Confirmation Rate  | Solution  | Medium  |
 
 ### Basic Aggregate Functions
