@@ -19,7 +19,7 @@
 | Employee Bonus  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/577.Employee%20Bonus.md)  | Easy  |
 | Students and Examinations  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1280.Students%20and%20Examinations.md)  |Easy  |
 | Managers with at Least 5 Direct Reports  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/570.Managers%20with%20at%20Least%205%20Direct%20Reports.md)  | Medium  |
-| Confirmation Rate  | Solution  | Medium  |
+| Confirmation Rate  | [Solution](https://github.com/shpak-yana/Leetcode-SQL50/blob/main/tasks/1934.Confirmation%20Rate.md)  | Medium  |
 
 ### Basic Aggregate Functions
 | Task Name                        | Solution  | Rank |
